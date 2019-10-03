@@ -1,4 +1,4 @@
-# Algorithm-library
+# Algorithm-Library
 All algorithms at one place
 
 ## Welcome to Algorithm Library :clipboard:
@@ -13,16 +13,16 @@ Fork the repository
 You need to clone it to local machine using
 
 ```sh
-$ git clone https://github.com/ProVictor/Algorithm-library.git
+$ git clone https://github.com/ProVictor/Algorithm-Library.git
 ```
 
 > This makes a local copy of repository in your machine.
 
-Once you have cloned the `Algorithm-library` repository in Github, move to that folder first using change directory command on linux and Mac.
+Once you have cloned the `Algorithm-Library` repository in Github, move to that folder first using change directory command on linux and Mac.
 
 ```sh
 # This will change directory to a folder Algo_Ds_Notes
-$ cd Algorithm-library
+$ cd Algorithm-Library
 ```
 
 Move to this folder for all other commands.
@@ -33,14 +33,14 @@ Run the following commands to see that *your local copy* has a reference to *you
 
 ```sh
 $ git remote -v
-origin  https://github.com/Your_Username/Algorithm-library.git (fetch)
-origin  https://github.com/Your_Username/Algorithm-library.git (push)
+origin  https://github.com/Your_Username/Algorithm-Library.git (fetch)
+origin  https://github.com/Your_Username/Algorithm-Library.git (push)
 ```
 
-Now, lets add a reference to the original [Algorithm-Library](https://github.com/ProVictor/Algorithm-library) repository using
+Now, lets add a reference to the original [Algorithm-Library](https://github.com/ProVictor/Algorithm-Library) repository using
 
 ```sh
-$ git remote add upstream https://github.com/ProVictor/Algorithm-library.git
+$ git remote add upstream https://github.com/ProVictor/Algorithm-Library.git
 ```
 
 > This adds a new remote named ***upstream***.
