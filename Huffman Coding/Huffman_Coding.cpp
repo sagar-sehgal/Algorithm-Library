@@ -105,4 +105,4 @@ int main()
     HuffmanCodes(arr, freq, size); 
   
     return 0; 
-} 
+}
