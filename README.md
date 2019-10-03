@@ -1,11 +1,11 @@
 # Algorithm-Library
 All algorithms at one place
 
-## Welcome to Algorithm Library :clipboard:
+## Welcome to Algorithm Library
 <Add Description>
 ## Steps to follow :scroll:
 
-### 1. Fork it :fork_and_knife:
+### 1. Fork it 
 Fork the repository
 
 ### 2. Clone it :busts_in_silhouette:
@@ -74,9 +74,9 @@ $ git reset --hard upstream/master
 $ git push origin master
 ```
 
-### 5. Ready Steady Go... 
+### 5. What's next?
 
-Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/ProVictor/Algorithm-library/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/ProVictor/Algorithm-Library/pulls).
 
 ### 6. Create a new branch 
 
