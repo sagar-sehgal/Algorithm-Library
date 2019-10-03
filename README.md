@@ -49,10 +49,10 @@ See the changes using
 
 ```sh
 $ git remote -v
-origin    https://github.com/Your_Username/Algo_Ds_Notes.git (fetch)
-origin    https://github.com/Your_Username/Algo_Ds_Notes.git (push)
-upstream  https://github.com/jainaman224/Algo_Ds_Notes.git (fetch)
-upstream  https://github.com/jainaman224/Algo_Ds_Notes.git (push)
+origin    https://github.com/Your_Username/Algorithm-library.git (fetch)
+origin    https://github.com/Your_Username/Algorithm-library.git (push)
+upstream  https://github.com/ProVictor/Algorithm-library.git (fetch)
+upstream  https://github.com/ProVictor/Algorithm-library.git (push)
 ```
 
 ### 4. Sync it :recycle:
